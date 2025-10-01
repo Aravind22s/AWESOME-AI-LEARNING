@@ -29,6 +29,10 @@
 
 ---
 
+Course like:https://www.coursera.org/programs/springboard-specialisation-program-b5yj9/learn/generative-ai-introduction-and-applications?authProvider=headstart
+
+---
+
 ## 📝 License
 
 This repository is for educational purposes. Please refer to the individual tools’ licenses for usage rights of their outputs.
