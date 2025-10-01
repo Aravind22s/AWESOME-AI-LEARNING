@@ -21,7 +21,5 @@ This repo is my personal knowledge base where I document what I’ve learned and
 ## 🤝 Contributing  
 This is mostly a personal learning repo, but if you find something interesting or want to suggest resources, feel free to open an issue or PR!  
 
-## 📌 License  
-MIT License – free to use, share, and build upon.  
 
 ---
