@@ -21,5 +21,7 @@ This repo is my personal knowledge base where I document what I’ve learned and
 ## 🤝 Contributing  
 This is mostly a personal learning repo, but if you find something interesting or want to suggest resources, feel free to open an issue or PR!  
 
-
 ---
+
+### 💡 Stay Connected
+If you found this useful, connect with me on [LinkedIn](https://www.linkedin.com/in/aravindan-s-72187227a) and share your favorite prompts! 🚀
